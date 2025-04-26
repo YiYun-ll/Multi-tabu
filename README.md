@@ -10,7 +10,8 @@
 # from TS_pro import multitabu
 # from TS_pro_submission import multitabu
 ```
-运行solver.py,更改导入头文件即可运行程序
+更改导入头文件
+运行solver.py
 ```python
 test_file = 'loop_random.json'
 ```
