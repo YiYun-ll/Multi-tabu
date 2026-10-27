@@ -1,4 +1,4 @@
-# Muti-tabu · 广义旅行商问题求解
+# Multi-tabu · 广义旅行商问题求解
 
 面向二维欧氏距离的 **广义旅行商问题（Generalized Traveling Salesman Problem）** 实验代码：将候选点划分为若干组，每组选择一个点，联合优化选点与访问顺序，寻找总长度更短的闭合路径。
 
@@ -38,8 +38,8 @@
 `TS_pro_submission.py` 仅使用 Python 标准库。先克隆仓库：
 
 ```bash
-git clone https://github.com/YiYun-ll/Muti-tabu.git
-cd Muti-tabu
+git clone https://github.com/YiYun-ll/Multi-tabu.git
+cd Multi-tabu
 ```
 
 运行新增的演示脚本：
@@ -119,7 +119,7 @@ python solver.py
 ## 文件导航
 
 ```text
-Muti-tabu/
+Multi-tabu/
 ├── TS_pro_submission.py   # 主要提交入口：标准库、单行输入输出
 ├── TS_pro.py              # 带多策略初始化的实验版本
 ├── TS.py / TS_gai.py      # 其他搜索实验版本
@@ -154,6 +154,6 @@ Muti-tabu/
 
 ## 交流与授权
 
-欢迎通过 [Issues](https://github.com/YiYun-ll/Muti-tabu/issues) 反馈算法问题，并附输入样例、随机种子、时间预算和运行环境。
+欢迎通过 [Issues](https://github.com/YiYun-ll/Multi-tabu/issues) 反馈算法问题，并附输入样例、随机种子、时间预算和运行环境。
 
 仓库当前未提供 `LICENSE` 文件；如需使用或再分发代码与数据，请先与维护者确认授权范围。
