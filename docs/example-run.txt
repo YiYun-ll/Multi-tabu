@@ -1,0 +1,13 @@
+$ python docs/demo.py --case 1 --time-limit 1 --seed 42 --plot
+
+Source: inputs_test.json / case 1
+Solver: TS_pro_submission.multitabu | Python 3.12.2
+Seed: 42 | budget: 1.0 s | elapsed: 1.002 s
+Groups: 7 | candidate points: 29
+Initial closed-tour distance: 340.666310
+Result  closed-tour distance: 319.163075
+Improvement over this initialization: 6.31%
+PASS: one point per group; unique coordinates; closed-tour distance verified
+Route: [(24, 11), (95, 9), (96, 53), (94, 84), (69, 78), (25, 106), (27, 38)]
+Saved: route-comparison.png
+Saved: result.json

@@ -1,0 +1,63 @@
+{
+  "source": "inputs_test.json",
+  "case": 1,
+  "seed": 42,
+  "python": "3.12.2",
+  "solver": "TS_pro_submission.multitabu",
+  "time_limit_seconds": 1.0,
+  "elapsed_seconds": 1.0017611000221223,
+  "groups": 7,
+  "candidates": 29,
+  "initial_distance": 340.666309963655,
+  "result_distance": 319.16307505884606,
+  "improvement_percent": 6.31211078873725,
+  "initial_indices": [
+    7,
+    11,
+    27,
+    1,
+    22,
+    18,
+    5
+  ],
+  "result_indices": [
+    18,
+    1,
+    27,
+    11,
+    7,
+    3,
+    24
+  ],
+  "result_coordinates": [
+    [
+      24,
+      11
+    ],
+    [
+      95,
+      9
+    ],
+    [
+      96,
+      53
+    ],
+    [
+      94,
+      84
+    ],
+    [
+      69,
+      78
+    ],
+    [
+      25,
+      106
+    ],
+    [
+      27,
+      38
+    ]
+  ],
+  "constraints_valid": true
+}
